@@ -5,7 +5,7 @@
 </p>
 
 ### Hej Hej!! 👋
-- 💼 Working at Volvo Cars Corporation Sweded with @mukul-vcc  
+- 💼 Github handles form work: @mukul-vcc  
 - 🔭 I’m currently focusing on building **platforms** and scaling **Kubernetes** infrastructure at **Volvo Cars**.
 - 🌱 I’m working towards mastering **GoLang** for cloud-native development and further deepening my knowledge of **Terraform** and **Kubernetes** for complex, multi-cloud environments.
 - 👯 I’m looking to collaborate on **open-source Kubernetes projects**, **cloud-native automation** solutions, and **CI/CD pipelines** in diverse industries.
