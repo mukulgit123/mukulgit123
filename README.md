@@ -28,9 +28,6 @@ I design and scale cloud-native platforms, Kubernetes infrastructure, and automa
 - Multi-cloud platform patterns for enterprise environments
 - Developer-focused delivery and deployment systems
 
-### Tech Stack
-![AWS](...) ![Kubernetes](...) ![Terraform](...) ![Go](...) ![GitHub Actions](...) ![Docker](...)
-
 ### Let's Connect
 - LinkedIn: https://www.linkedin.com/in/mukul-garg18
 - GitHub: github.com/mukulgit123
