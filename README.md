@@ -2,7 +2,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukulgit123&theme=solarized"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukul-vcc&theme=solarized"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukulgit123&theme=solarized"></img>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukul-vcc&theme=solarized"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukulgit123&theme=solarized"></img>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukul-vcc&theme=solarized"></img>
 </p>
 
 ### Hej Hej!! 👋
